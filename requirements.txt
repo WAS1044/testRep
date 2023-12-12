@@ -1,0 +1,7 @@
+os
+tkinter
+pydub
+mutagen
+scipy
+numpy
+matplotlib
